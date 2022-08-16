@@ -70,6 +70,7 @@ int SplitANumberIntoSeparateNumbers(int number, int indexNumber)
     return result;
 }
 
+// Вывод суммы
 void PrintSumma(int summa)
 {
     Console.ForegroundColor = ConsoleColor.Green;
